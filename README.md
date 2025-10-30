@@ -30,14 +30,14 @@ Overwrite file contents while preserving the original filename. Perfect for upda
 ---
 
 ### [DragScroll](https://github.com/bigorados-bigo/DragScroll)
-**Customizable Drag Scrolling** • ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+**Customizable Drag Scrolling**
 
 Enable drag scrolling functionality with configurable mouse buttons. Enhanced navigation for any application.
 
 ---
 
 ### [BorderlessV2](https://github.com/bigorados-bigo/BorderlessV2)
-**Borderless Window Manager for Games** • ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+**Borderless Window Manager for Games**
 
 AutoHotkey scripts to convert games to borderless windowed mode. Improve your gaming experience with seamless window management.
 
@@ -46,7 +46,7 @@ AutoHotkey scripts to convert games to borderless windowed mode. Improve your ga
 ## 🔧 VSCode Extensions
 
 ### [MBAA-Commands](https://github.com/bigorados-bigo/MBAA-Commands) ⭐
-**Melty Blood Actress Again Command Tables** • ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+**Melty Blood Actress Again Command Tables**
 
 Syntax highlighting and language support for **Melty Blood Actress Again** command tables (`*_c.txt` files). Essential for MBAA modding and development.
 
@@ -59,14 +59,14 @@ Syntax highlighting and language support for **Melty Blood Actress Again** comma
 
 ## 📚 Repository Overview
 
-| Repository | Language | License | Description |
-|------------|----------|---------|-------------|
-| [PhotoshopMiddleMousePan](https://github.com/bigorados-bigo/PhotoshopMiddleMousePan) | AutoHotkey | - | Pan command for Adobe applications |
-| [RenameIncrement](https://github.com/bigorados-bigo/RenameIncrement) | AutoHotkey | - | Batch file renaming with numbering |
-| [ReplaceKeepName](https://github.com/bigorados-bigo/ReplaceKeepName) | AutoHotkey | - | File content replacement utility |
-| [DragScroll](https://github.com/bigorados-bigo/DragScroll) | AutoHotkey | MIT | Configurable drag scrolling |
-| [BorderlessV2](https://github.com/bigorados-bigo/BorderlessV2) | AutoHotkey | MIT | Borderless window manager |
-| [MBAA-Commands](https://github.com/bigorados-bigo/MBAA-Commands) | TypeScript | MIT | VSCode extension for MBAA |
+| Repository | Language | Description |
+|------------|----------|-------------|
+| [PhotoshopMiddleMousePan](https://github.com/bigorados-bigo/PhotoshopMiddleMousePan) | AutoHotkey | Pan command for Adobe applications |
+| [RenameIncrement](https://github.com/bigorados-bigo/RenameIncrement) | AutoHotkey | Batch file renaming with numbering |
+| [ReplaceKeepName](https://github.com/bigorados-bigo/ReplaceKeepName) | AutoHotkey | File content replacement utility |
+| [DragScroll](https://github.com/bigorados-bigo/DragScroll) | AutoHotkey | Configurable drag scrolling |
+| [BorderlessV2](https://github.com/bigorados-bigo/BorderlessV2) | AutoHotkey | Borderless window manager |
+| [MBAA-Commands](https://github.com/bigorados-bigo/MBAA-Commands) | TypeScript | VSCode extension for MBAA |
 
 ---
 
@@ -79,9 +79,7 @@ Syntax highlighting and language support for **Melty Blood Actress Again** comma
 
 ---
 
-## 📄 License
 
-Each project has its own licensing terms. Please check individual repositories for specific license information.
 
 ---
 
