@@ -15,6 +15,13 @@ Assign pan functionality to any key or mouse button in Adobe Photoshop and Illus
 
 ---
 
+### [OneNotePan](https://github.com/bigorados-bigo/OneNotePan)
+**Mouse Button Panning for OneNote**
+
+Enables intuitive pan/scroll functionality in OneNote using middle mouse button or XButton1. Automatically switches between pan and selection tools for seamless navigation.
+
+---
+
 ### [RenameIncrement](https://github.com/bigorados-bigo/RenameIncrement)
 **Batch File Renaming with Auto-Increment**
 
@@ -62,6 +69,7 @@ Syntax highlighting and language support for **Melty Blood Actress Again** comma
 | Repository | Language | Description |
 |------------|----------|-------------|
 | [PhotoshopMiddleMousePan](https://github.com/bigorados-bigo/PhotoshopMiddleMousePan) | AutoHotkey | Pan command for Adobe applications |
+| [OneNotePan](https://github.com/bigorados-bigo/OneNotePan) | AutoHotkey | Mouse button panning for OneNote |
 | [RenameIncrement](https://github.com/bigorados-bigo/RenameIncrement) | AutoHotkey | Batch file renaming with numbering |
 | [ReplaceKeepName](https://github.com/bigorados-bigo/ReplaceKeepName) | AutoHotkey | File content replacement utility |
 | [DragScroll](https://github.com/bigorados-bigo/DragScroll) | AutoHotkey | Configurable drag scrolling |
