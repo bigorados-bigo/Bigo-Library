@@ -50,6 +50,15 @@ AutoHotkey scripts to convert games to borderless windowed mode. Improve your ga
 
 ---
 
+## 🌐 Browser Extensions
+
+### [DiscordChannelTabs](https://github.com/bigorados-bigo/DiscordChannelTabs)
+**Experimental Channel Tabs for Discord Web**
+
+Adds a pinned tab bar with unread badges and drag-to-reorder support to the Discord web app, no client mods required.
+
+---
+
 ## 🔧 VSCode Extensions
 
 ### [MBAA-Commands](https://github.com/bigorados-bigo/MBAA-Commands) ⭐
@@ -74,6 +83,7 @@ Syntax highlighting and language support for **Melty Blood Actress Again** comma
 | [ReplaceKeepName](https://github.com/bigorados-bigo/ReplaceKeepName) | AutoHotkey | File content replacement utility |
 | [DragScroll](https://github.com/bigorados-bigo/DragScroll) | AutoHotkey | Configurable drag scrolling |
 | [BorderlessV2](https://github.com/bigorados-bigo/BorderlessV2) | AutoHotkey | Borderless window manager |
+| [DiscordChannelTabs](https://github.com/bigorados-bigo/DiscordChannelTabs) | TypeScript | Browser extension adding channel tabs to Discord |
 | [MBAA-Commands](https://github.com/bigorados-bigo/MBAA-Commands) | TypeScript | VSCode extension for MBAA |
 
 ---
