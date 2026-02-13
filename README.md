@@ -50,6 +50,15 @@ AutoHotkey scripts to convert games to borderless windowed mode. Improve your ga
 
 ---
 
+## 🐍 Python Projects
+
+### [SpriteTools](https://github.com/bigorados-bigo/SpriteTools)
+**Batch Sprite Palette & Canvas Utility**
+
+Utilities for batch-editing indexed PNG sprites with palette-aware rules, including quantization, palette reordering, and canvas sizing workflows.
+
+---
+
 ## 🌐 Browser Extensions
 
 ### [DiscordChannelTabs](https://github.com/bigorados-bigo/DiscordChannelTabs)
@@ -84,6 +93,7 @@ Syntax highlighting and language support for **Melty Blood Actress Again** comma
 | [DragScroll](https://github.com/bigorados-bigo/DragScroll) | AutoHotkey | Configurable drag scrolling |
 | [BorderlessV2](https://github.com/bigorados-bigo/BorderlessV2) | AutoHotkey | Borderless window manager |
 | [DiscordChannelTabs](https://github.com/bigorados-bigo/DiscordChannelTabs) | TypeScript | Browser extension adding channel tabs to Discord |
+| [SpriteTools](https://github.com/bigorados-bigo/SpriteTools) | Python | Batch-edit indexed PNG sprites with palette-aware rules |
 | [MBAA-Commands](https://github.com/bigorados-bigo/MBAA-Commands) | TypeScript | VSCode extension for MBAA |
 
 ---
