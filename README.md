@@ -43,6 +43,13 @@ Enable drag scrolling functionality with configurable mouse buttons. Enhanced na
 
 ---
 
+### [ExtraClipboard](https://github.com/bigorados-bigo/ExtraClipboard)
+**Multi-Slot Clipboard Utility (AutoHotkey v2)**
+
+Provides separate, configurable clipboard slots with independent copy/paste hotkeys for text and file workflows.
+
+---
+
 ### [BorderlessV2](https://github.com/bigorados-bigo/BorderlessV2)
 **Borderless Window Manager for Games**
 
@@ -91,6 +98,7 @@ Syntax highlighting and language support for **Melty Blood Actress Again** comma
 | [RenameIncrement](https://github.com/bigorados-bigo/RenameIncrement) | AutoHotkey | Batch file renaming with numbering |
 | [ReplaceKeepName](https://github.com/bigorados-bigo/ReplaceKeepName) | AutoHotkey | File content replacement utility |
 | [DragScroll](https://github.com/bigorados-bigo/DragScroll) | AutoHotkey | Configurable drag scrolling |
+| [ExtraClipboard](https://github.com/bigorados-bigo/ExtraClipboard) | AutoHotkey | Multi-slot clipboard utility with configurable hotkeys |
 | [BorderlessV2](https://github.com/bigorados-bigo/BorderlessV2) | AutoHotkey | Borderless window manager |
 | [DiscordChannelTabs](https://github.com/bigorados-bigo/DiscordChannelTabs) | TypeScript | Browser extension adding channel tabs to Discord |
 | [SpriteTools](https://github.com/bigorados-bigo/SpriteTools) | Python | Batch-edit indexed PNG sprites with palette-aware rules |
