@@ -75,6 +75,15 @@ Adds a pinned tab bar with unread badges and drag-to-reorder support to the Disc
 
 ---
 
+## 🪟 Windows Desktop Apps
+
+### [ExplorerTabProfiles](https://github.com/bigorados-bigo/ExplorerTabProfiles)
+**Saved Native File Explorer Tab Profiles**
+
+Save named Windows 11 File Explorer tab layouts and relaunch them later using the native Explorer tab system. Built for reusable folder workspaces, quick launches, and project-specific tab sets.
+
+---
+
 ## 🔧 VSCode Extensions
 
 ### [MBAA-Commands](https://github.com/bigorados-bigo/MBAA-Commands) ⭐
@@ -101,6 +110,7 @@ Syntax highlighting and language support for **Melty Blood Actress Again** comma
 | [ExtraClipboard](https://github.com/bigorados-bigo/ExtraClipboard) | AutoHotkey | Multi-slot clipboard utility with configurable hotkeys |
 | [BorderlessV2](https://github.com/bigorados-bigo/BorderlessV2) | AutoHotkey | Borderless window manager |
 | [DiscordChannelTabs](https://github.com/bigorados-bigo/DiscordChannelTabs) | TypeScript | Browser extension adding channel tabs to Discord |
+| [ExplorerTabProfiles](https://github.com/bigorados-bigo/ExplorerTabProfiles) | C# / WPF | Save and relaunch native Windows 11 File Explorer tab profiles |
 | [SpriteTools](https://github.com/bigorados-bigo/SpriteTools) | Python | Batch-edit indexed PNG sprites with palette-aware rules |
 | [MBAA-Commands](https://github.com/bigorados-bigo/MBAA-Commands) | TypeScript | VSCode extension for MBAA |
 
