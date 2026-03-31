@@ -43,6 +43,13 @@ Enable drag scrolling functionality with configurable mouse buttons. Enhanced na
 
 ---
 
+### [TimelineClick](https://github.com/bigorados-bigo/TimelineClick)
+**Timeline Playhead Click + Horizontal Pan Utility**
+
+Move the timeline playhead to the cursor position in supported editors and optionally pan horizontally with a dedicated held shortcut. Built on top of the original `TimeLineClick` script by `dumbeau`, with a packaged GUI app, bundled profiles, and release builds.
+
+---
+
 ### [ExtraClipboard](https://github.com/bigorados-bigo/ExtraClipboard)
 **Multi-Slot Clipboard Utility (AutoHotkey v2)**
 
@@ -107,6 +114,7 @@ Syntax highlighting and language support for **Melty Blood Actress Again** comma
 | [RenameIncrement](https://github.com/bigorados-bigo/RenameIncrement) | AutoHotkey | Batch file renaming with numbering |
 | [ReplaceKeepName](https://github.com/bigorados-bigo/ReplaceKeepName) | AutoHotkey | File content replacement utility |
 | [DragScroll](https://github.com/bigorados-bigo/DragScroll) | AutoHotkey | Configurable drag scrolling |
+| [TimelineClick](https://github.com/bigorados-bigo/TimelineClick) | AutoHotkey | Timeline playhead click utility with bundled profiles and pan hotkeys |
 | [ExtraClipboard](https://github.com/bigorados-bigo/ExtraClipboard) | AutoHotkey | Multi-slot clipboard utility with configurable hotkeys |
 | [BorderlessV2](https://github.com/bigorados-bigo/BorderlessV2) | AutoHotkey | Borderless window manager |
 | [DiscordChannelTabs](https://github.com/bigorados-bigo/DiscordChannelTabs) | TypeScript | Browser extension adding channel tabs to Discord |
